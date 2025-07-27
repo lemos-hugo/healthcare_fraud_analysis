@@ -1,0 +1,25 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.24.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+
+# Network Analysis
+networkx>=3.0
+
+# Association Rules Mining
+mlxtend>=0.22.0
+
+# Interactive Visualization
+plotly>=5.15.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+ipykernel>=6.16.0
+
+# Additional Utilities
+warnings
